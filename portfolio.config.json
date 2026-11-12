@@ -1,0 +1,353 @@
+{
+  "profile": {
+    "name": "Kedar Nath Sahu",
+    "title": "Cloud Security Consultant",
+    "email": "kedarsahu09@gmail.com",
+    "phone": "9711276986",
+    "location": "Noida",
+    "linkedin": "https://www.linkedin.com/in/kedarsahu2007/",
+    "topmate": "https://topmate.io/kedarnathsahu",
+    "photo": "/profile.png",
+    "cvUrl": "",
+    "footerLine": "Cloud Security Consultant • 18+ Years IT Experience"
+  },
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "href": "https://www.linkedin.com/in/kedarsahu2007/"
+    },
+    {
+      "label": "Book a session on Topmate",
+      "icon": "calendar",
+      "href": "https://topmate.io/kedarnathsahu"
+    },
+    {
+      "label": "Email",
+      "icon": "mail",
+      "href": "mailto:kedarsahu09@gmail.com"
+    }
+  ],
+  "hero": {
+    "status": "Open to consulting & mentoring · Noida, India",
+    "greeting": "Hi, I’m",
+    "firstName": "Kedar",
+    "lastName": "Nath Sahu",
+    "role": "Cloud Security Consultant",
+    "summary": "Cloud Security Consultant with 18+ years of IT experience, helping enterprises close security gaps across cloud, endpoints, Cloud Apps, data and identity. Specialised in Microsoft Security, Wiz CSPM, Azure Security and EDR.",
+    "primaryButton": {
+      "label": "View Projects",
+      "href": "#work"
+    },
+    "secondaryButtonLabel": "View Resume"
+  },
+  "stats": [
+    [
+      "18+",
+      "Years of experience"
+    ]
+  ],
+  "sections": {
+    "about": {
+      "label": "About",
+      "title": "About me"
+    },
+    "skills": {
+      "label": "Core Skills",
+      "title": "What I work with.",
+      "text": "The skills and tools I use most."
+    },
+    "projects": {
+      "badge": "Selected Work",
+      "title": "Featured Projects",
+      "text": "A few projects I am proud of."
+    },
+    "experience": {
+      "label": "Experience",
+      "title": "My career so far.",
+      "text": "Roles and what I did in them."
+    },
+    "credentials": {
+      "label": "Credentials",
+      "title": "Certifications and training.",
+      "text": "Certifications and continued learning."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Notes and write-ups.",
+      "text": "Posts about what I am learning and building."
+    },
+    "testimonials": {
+      "title": "What people say"
+    },
+    "contact": {
+      "badge": "Let’s Talk",
+      "title": "Get in Touch",
+      "text": "Have a project, a role, or just a hello? My inbox is open."
+    }
+  },
+  "about": {
+    "lead": "I help enterprises find and close security gaps. As a Cybersecurity Consultant at Wipro, I work across cloud security, endpoint security, identity and Microsoft 365, with a focus on \"Microsoft Security and Wiz Cloud/Wiz Code.\"",
+    "paragraphs": [
+      "I started in 2008 as a Windows and infrastructure administrator, then moved through Citrix, VMware and Active Directory into Azure security and identity, and now cloud security with Microsoft 365 Defender and Wiz Cloud/Wiz Code.",
+      "That background means I understand how infrastructure really runs, so the security I design works in production, not just on paper."
+    ],
+    "bullets": [
+      "Cloud posture with Wiz Cloud/Wiz Code and Microsoft Defender for Cloud",
+      "Endpoint migrations from CrowdStrike and Trellix to Microsoft Defender",
+      "Identity with Entra ID, Conditional Access, PIM, MFA and RBAC",
+      "Client engagements in Germany and the Netherlands"
+    ]
+  },
+  "skills": [
+    [
+      "cloud",
+      "Cloud Security",
+      [
+        "Wiz CSPM",
+        "Defender for Cloud",
+        "Azure Security",
+        "Azure Policy",
+        "Azure Arc"
+      ]
+    ],
+    [
+      "shield",
+      "Microsoft Security",
+      [
+        "Defender for Endpoint",
+        "Defender for Office 365",
+        "Defender for Identity",
+        "Sentinel",
+        "Defender for Cloud Apps"
+      ]
+    ],
+    [
+      "user",
+      "Endpoint & IAM",
+      [
+        "EDR",
+        "NGAV",
+        "ATP",
+        "ASR",
+        "Intune",
+        "GPO",
+        "Entra ID",
+        "RBAC",
+        "PIM",
+        "MFA"
+      ]
+    ],
+    [
+      "arch",
+      "Security Architecture",
+      [
+        "Enterprise security transformation",
+        "Endpoint security migration"
+      ]
+    ],
+    [
+      "layers",
+      "Virtualization",
+      [
+        "Citrix Cloud",
+        "XenApp",
+        "XenDesktop",
+        "PVS",
+        "NetScaler",
+        "VMware",
+        "vSphere/ESXi"
+      ]
+    ],
+    [
+      "db",
+      "Infrastructure",
+      [
+        "Windows Server",
+        "Linux Server",
+        "Active Directory",
+        "DNS",
+        "DHCP",
+        "SQL Clustering"
+      ]
+    ]
+  ],
+  "projects": [
+    {
+      "category": "Cloud Security",
+      "title": "Endpoint Security / Microsoft",
+      "text": "Endpoint Security Migration\nSupported enterprise migration from CrowdStrike and Trellix to Microsoft Defender for Endpoint, with AV and ASR policies through Intune and GPO.",
+      "tags": [
+        "Defender for Endpoint",
+        "Intune",
+        "GPO",
+        "ASR"
+      ],
+      "image": "/placeholder-project.svg",
+      "href": ""
+    },
+    {
+      "category": "",
+      "title": "Cloud Security / Wiz",
+      "text": "Cloud Security Posture with Wiz\nCloud security posture visibility, security assessment and risk management across cloud environments.",
+      "tags": [
+        "Wiz",
+        "CSPM Risk",
+        "Management Azure"
+      ],
+      "image": "/placeholder-project.svg",
+      "href": ""
+    }
+  ],
+  "experience": [
+    {
+      "dates": "Feb 2022 — Present",
+      "place": "Noida",
+      "role": "Cybersecurity Consultant",
+      "company": "Wipro Technologies",
+      "points": [
+        "Manage and support Wiz CSPM for cloud security posture visibility, security assessment and risk management.",
+        "Design and implement Microsoft 365 Defender across Endpoint, Office 365, Identity, Cloud Apps and Defender for Cloud.",
+        "Deliver Defender for Endpoint onboarding, AV and ASR policies, and CrowdStrike/Trellix migration using Intune, Defender for Cloud, SCCM and GPO."
+      ]
+    },
+    {
+      "dates": "Aug 2016 — Feb 2022",
+      "place": "Noida",
+      "role": "Azure Security / Cloud Consultant",
+      "company": "HCL Technologies",
+      "points": [
+        "Implemented Azure Security and IAM across Entra ID, Identity Protection, Conditional Access, RBAC, PIM, MFA and enterprise applications.",
+        "Supported hybrid identity, Azure network security, Key Vault, Azure Policy, Azure Arc and secure Azure Virtual Desktop environments.",
+        "Collaborated across infrastructure, identity, network and security teams, including two onsite engagements in the Netherlands."
+      ]
+    }
+  ],
+  "earlier": [
+    {
+      "role": "Citrix / EUC Consultant",
+      "company": "Tata Consultancy Services",
+      "dates": "Oct 2014 — Aug 2016",
+      "points": [
+        "Managed Citrix Cloud Virtual Apps & Desktops, XenApp, XenDesktop, PVS and XenServer.",
+        "Supported App-V, AppSense, Azure Compute Services and enterprise application delivery."
+      ]
+    },
+    {
+      "role": "Citrix / Virtualization Consultant",
+      "company": "Hewlett Packard Globalsoft",
+      "dates": "Aug 2011 — Sep 2014",
+      "points": [
+        "Supported Citrix XenApp, XenDesktop and VMware vSphere 5.x environments.",
+        "Administered Windows Server and resolved virtualization and application delivery issues."
+      ]
+    }
+  ],
+  "certs": [
+    [
+      "Microsoft · AZ-500",
+      "Azure Security Engineer",
+      "/certificates/ul92ukg51.jpg"
+    ],
+    [
+      "Microsoft · SC-200",
+      "Security Opeation Analyst",
+      "/certificates/u9qhw3d2n.jpg"
+    ],
+    [
+      "Microsoft · SC-300",
+      "Identity and access administrator",
+      "/certificates/utw66bp4l.jpg"
+    ],
+    [
+      "Microsoft · MS-500",
+      "Microsoft 365 Security administrator",
+      "/certificates/u8oixxu9m.jpg"
+    ]
+  ],
+  "training": [
+    "Wiz Cloud",
+    "Wiz Code",
+    "SC-200",
+    "SC-300",
+    "SC-400",
+    "SC-900",
+    "AZ-500",
+    "AZ-104",
+    "Google Cloud Associate",
+    "AWS Cloud Associate",
+    "SOC Analyst",
+    "CEH",
+    "MCSA",
+    "CCNA",
+    "RHCE",
+    "Citrix",
+    "ITIL"
+  ],
+  "education": [
+    {
+      "year": "2011",
+      "title": "B.Sc. (Information Technology)",
+      "place": "VMDU, Tamil Nadu"
+    },
+    {
+      "year": "2003 — 2006",
+      "title": "3-Year Polytechnic Diploma",
+      "place": "Electronics, Fiber Optics & Communication Government Polytechnic College, Jodhpur"
+    }
+  ],
+  "mentoring": {
+    "enabled": true,
+    "pill": "1:1 Mentorship · Topmate",
+    "headline": "Mentor with Kedar",
+    "text": "Career guidance, mentorship and AI tools coaching from an engineer with 18+ years of IT experience, who has worked across the MNCs HP, TCS, HCL and Wipro.",
+    "bookLabel": "Book a Session on Topmate",
+    "linkedinLabel": "Connect on LinkedIn",
+    "stats": [
+      [
+        "18+",
+        "Years in IT"
+      ],
+      [
+        "8+",
+        "Years in Cybersecurity"
+      ],
+      [
+        "4",
+        "MNCs worked at"
+      ],
+      [
+        "6",
+        "Microsoft certifications"
+      ]
+    ],
+    "workedAtLabel": "Worked at",
+    "workedAt": [
+      "HP",
+      "TCS",
+      "HCL",
+      "Wipro"
+    ]
+  },
+  "linkedinBanner": {
+    "eyebrow": "Insights · Career guidance",
+    "titleA": "Connect with",
+    "titleB": "Kedar on LinkedIn",
+    "text": "Security insights · Career guidance Connect with Kedar on LinkedIn Cloud security, Microsoft Defender and Wiz insights, plus career guidance from 18+ years in IT. Join my professional network on LinkedIn.",
+    "button": "Connect on LinkedIn"
+  },
+  "testimonialCta": {
+    "chip": "Your turn",
+    "titleA": "Worked with me?",
+    "titleB": "Share your experience",
+    "text": "Your turn\nWorked with Kedar? Share your experience\nYour testimonial helps others know what to expect from a mentor session or collaboration. Takes less than a minute.",
+    "button": "Leave a Testimonial"
+  },
+  "blog": {
+    "posts": []
+  },
+  "modules": {
+    "backend": true,
+    "blog": true
+  }
+}
